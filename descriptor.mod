@@ -1,5 +1,5 @@
-name = "Kaiserreich Dev Build"
-path = "mod/Kaiserreich Dev Build"
+name = "Dreams of Empire Dev Build"
+path = "mod/doe"
 
 replace_path = "common/abilities"
 replace_path = "common/ai_areas"
